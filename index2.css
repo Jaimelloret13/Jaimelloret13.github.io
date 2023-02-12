@@ -1,0 +1,48 @@
+/*li{
+    color: pink;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label{
+    font-size: 30px;
+}
+
+main{
+    background-color:aquamarine;
+}
+
+.form-input{
+    color: red;
+}
+
+#b{
+    border: 10px solid black;
+}
+
+div.form-input{
+    color: black;
+}
+*/
+
+div.form-input{
+    /*height: 20em;
+    width: 50vw;*/
+
+    background-color:aqua;
+}
+
+#a{
+    /*display: none;*/
+}
+#button-hola{
+    padding: 3em;
+    margin: 5em;
+    margin-top: 1em;
+    padding-top: 5em;
+    border: 0px dashed black;
+    border-top: 5px dashed black;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
